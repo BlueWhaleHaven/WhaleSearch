@@ -3,7 +3,8 @@
 > ... i wanted to explore the rag stuff, so this is the simplest implmentation of rag.
 >
 > ... it is my attempt project to understand how search engine works.
-
+>
+> ... work in process 
 
 ![img](images/search.jpg)
 
